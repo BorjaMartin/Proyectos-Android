@@ -13,7 +13,6 @@ public class SecondActivity extends AppCompatActivity {
 
     private TextView textView;
     private Button buttonBack;
-
     private  Button buttonThird;
 
     @Override
