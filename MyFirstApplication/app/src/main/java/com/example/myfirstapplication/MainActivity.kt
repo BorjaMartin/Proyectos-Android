@@ -13,10 +13,7 @@ class MainActivity : AppCompatActivity() {
 
         toast("Hello World")
     }
-//    fsdafdsafdsa
-//    fdsa
-//    fdsa
-//    fdsa
+    
 
 
     fun toast (textToast: String) = Toast.makeText(this, textToast, Toast.LENGTH_SHORT).show()
